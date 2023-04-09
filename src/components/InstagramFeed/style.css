@@ -1,0 +1,21 @@
+.instagramFeed{
+    background: linear-gradient(180deg, #E1FEFE 0%, rgba(163, 215, 253, 0) 100%);
+}
+.imagefeedone{
+    background-image: url('../../assets/instagramfeedone.jpeg');
+}
+.imagefeedtwo{
+    background-image: url('../../assets/instagramfeedtwo.jpeg');
+}
+.imagefeedthree{
+    background-image: url('../../assets/instagramfeedthree.jpeg');
+}
+.imagefeedfour{
+    background-image: url('../../assets/instagramfeedfour.jpeg')
+}
+
+.imagefeedone, .imagefeedtwo, .imagefeedthree, .imagefeedfour{
+
+    background-position: center;
+    background-size: cover;
+}

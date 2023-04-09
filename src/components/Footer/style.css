@@ -1,0 +1,9 @@
+.footer{
+    background-image: url('../../assets/imagefooter.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+.nameAna{
+    font-family: 'Sacramento', cursive;
+}

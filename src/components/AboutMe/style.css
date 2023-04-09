@@ -1,0 +1,5 @@
+.imageAboutMe{
+    background-image: url('../../assets/imageaboutme.jpeg');
+    background-position: center;
+    background-size: cover;
+}

@@ -1,0 +1,17 @@
+.gridTemplateOne{
+    background-image: url('../../assets/imagealbumone.jpeg');
+}
+.gridTemplateTwo{
+    background-image: url('../../assets/imagealbumtwo.jpeg');
+}
+.gridTemplateThree{
+    background-image: url('../../assets/imagealbumthree.jpeg');
+}
+.gridTemplateFour{
+    background-image: url('../../assets/imagealbumfour.jpeg');
+}
+
+.gridTemplateOne, .gridTemplateTwo, .gridTemplateThree, .gridTemplateFour{
+    background-position: center;
+    background-size: cover;
+}
