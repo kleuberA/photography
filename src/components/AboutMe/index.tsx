@@ -7,7 +7,7 @@ export default function AboutMe(){
             <div className="m-auto px-6 text-gray-600 md:px-12 xl:px-6">
                 <div className="mb-12 space-y-2 text-center"></div>
                 <div className="grid gap-12 lg:grid-cols-2 lg:grid-rows-2">
-                    <div className="p-1 col-span-2 h-96 rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
+                    <div className="p-1 col-span-2 h-[96] sm:h-[42rem] rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
                         <img src={ImageAboutMe} alt="art cover" loading="lazy" width="1000" height="667" className="h-56 sm:h-full w-full sm:w-5/12 object-cover object-top rounded-lg transition duration-500 group-hover:rounded-xl"/>
                         <div className="sm:w-7/12 pl-0 p-5">
                             <div className="space-y-2">

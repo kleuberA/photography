@@ -3,8 +3,8 @@ import './style.css';
 export default function Footer(){
     return(
         <div className='footer w-full h-[120vh]'>
-            <div className='flex flex-row w-4/5 h-[90vh] mx-auto justify-between items-end text-white'>
-                <div className='flex flex-col gap-5'>
+            <div className='flex lg:flex-row flex-col justify-end sm:gap-4 w-4/5 h-[90vh] mx-auto lg:justify-between items-end text-white'>
+                <div className='flex flex-col gap-5 mb-4 lg:mb-0'>
                     <h1 className='text-2xl font-medium tracking-[5px]'>Mount & Coast</h1>
                     <span className='text-sm tracking-[2px]'>Get in touch</span>
                     <div className='flex flex-row justify-between'>

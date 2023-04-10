@@ -4,9 +4,9 @@ export default function Hero(){
     return(
         <div className="hero w-full h-[100vh]">
             <div className='flex justify-center flex-col h-full gap-36'>
-                <h1 className='font-medium text-5xl text-[#333333] text-center tracking-[15px]'>Mount & Coast</h1>
+                <h1 className='font-medium text-2xl lg:text-5xl text-[#333333] text-center tracking-[15px]'>Mount & Coast</h1>
                 <div className=''>
-                    <ul className='flex w-[50%] justify-around text-center mx-auto text-lg font-normal text-[#333333] leading-5 uppercase'>
+                    <ul className='flex lg:w-[50%] justify-around text-center mx-auto text-base lg:text-lg font-normal text-[#333333] leading-5 uppercase'>
                         <li className='hover:underline cursor-pointer'>Mountain</li>
                         <li className='hover:underline cursor-pointer'>Coastal</li>
                         <li className='hover:underline cursor-pointer'>Sea</li>
